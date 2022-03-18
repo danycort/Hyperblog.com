@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: aquamarine;
+}
+
+#post {
+
+    margin: auto;
+    padding-top: 10px;
+    width: 200px;
+    text-align: justify;
+}
