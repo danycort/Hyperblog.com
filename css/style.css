@@ -4,7 +4,12 @@ body {
 }
 
 h1 {
-    color: rgb(20, 24, 22);
+    color: rgb(10, 78, 44);
+}
+
+h2 {
+    color: brown;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 #continer {
