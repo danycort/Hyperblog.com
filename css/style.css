@@ -4,19 +4,31 @@ body {
 }
 
 h1 {
-    color: rgb(20, 24, 22);
+    color: rgb(10, 78, 44);
+}
+
+h2 {
+    color: rgb(253, 253, 253);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 #continer {
     margin: 0%;
-    padding-top: 5px;
-    width: 900px;
+    width: 600px;
 }
 
 #post {
-
     margin: auto;
-    padding-top: 10px;
+    padding-top: 5px;
     width: 400px;
     text-align: justify;
 }
+
+#cabecera {
+    text-align: center;
+    width: 600px;
+    height: auto;
+    background-color: rgb(27, 8, 44);
+    color: aliceblue;
+}
+
