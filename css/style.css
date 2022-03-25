@@ -31,6 +31,19 @@ body {
 
 }
 
+#foot {
+    background-color: black;
+    width: auto;
+    text-align: center;
+}
+
+#cont-foot {
+    padding: 10px;
+    color: #fff;
+    font-size: large;
+
+}
+
 
 
 
