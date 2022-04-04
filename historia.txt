@@ -8,6 +8,8 @@ Sarah lopez Edad 30 Años. Una gran lic. en programción. :
 Inicio mi curso de Git y Github en platzi.com
 Fecha: 17 de Marzo de 2022. 
 
+Experimento 1
+
 Master 1 
 
 Master 2 
