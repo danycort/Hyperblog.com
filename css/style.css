@@ -32,14 +32,14 @@ body {
 }
 
 #foot {
-    background-color: black;
+    background-color: rgb(243, 236, 236);
     width: auto;
     text-align: center;
 }
 
 #cont-foot {
     padding: 10px;
-    color: #fff;
+    color: rgb(14, 13, 13);
     font-size: large;
 
 }
